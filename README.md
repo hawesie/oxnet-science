@@ -25,7 +25,7 @@ In the second half of the video I upload and open some Python notebooks for a di
 
 ## Downloading the Code and Data
 
-The Python notebook and data for this exericse is stored in this [Git repository](https://github.com/hawesie/oxnet-21-science). To download the code you can use the following link to download a zip file: [https://github.com/hawesie/oxnet-21-science/archive/main.zip](https://github.com/hawesie/oxnet-21-science/archive/main.zip). 
+The Python notebook and data for this exercise is stored in this [Git repository](https://github.com/hawesie/oxnet-21-science). To download the code you can use the following link to download a zip file: [https://github.com/hawesie/oxnet-21-science/archive/main.zip](https://github.com/hawesie/oxnet-21-science/archive/main.zip). 
 
 You should extract the file you downloaded into the location in your Python environment where you plan to work on it. This will create a folder structure containing a `data` folder and a `notebooks` folder. You should open `notebooks/robot_navigation_statistics.ipynb` in your Jupyter notebook editor. 
 
