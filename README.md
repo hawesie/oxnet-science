@@ -40,9 +40,19 @@ Each line in the data file describes an attempt to navigate an edge in the robot
 
 You are provided with a Jupyter notebook in [notebooks/robot_navigation_statistics.ipynb](notebooks/robot_navigation_statistics.ipynb). This notebook provides the Python code necessary to load the data and manipulate it in various ways. 
 
-## The Homework Exercise
+# The Homework Exercise
 
 For the homework you should work through the provided Jupyter notebook, reading each entry and doing your best to understand each cell of Python code. Feel free to edit the code, or run additional tests, as you wish. At two locations in the file there are lists of tasks for you to attempt in order to explore the data further. Everyone should attempt at least two tasks, i.e. the first task in each list. Save all your attempts in the notebook and then you can submit your homework by submitting your edited notebook.
 
+# Required Knowledge
+
+In order to complete this exericse you need to have enough Python knowledge to understand, use, and extend the notebook provided. 
+
+There are many free resources for learning Python. The one we recommend for you is this online book: http://openbookproject.net/thinkcs/python/english3e/
+To prepare for this exercise we recommend trying to get through Chapters 1 to 14 (skipping 10 if you want), plus Chapter 20.
+
+If you are particularly interested in maths and physics, you may instead want to try the introduction to Python that Oxford and Cambridge provide for their undergraduate engineers: https://github.com/hawesie/a2-computer-engineering/
+
+The exercise also requiures knowledge about data handing and visualisation, statistics (mean, standard deviation), and probability.
 
 
