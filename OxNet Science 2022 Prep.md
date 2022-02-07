@@ -43,15 +43,15 @@ Once you have your Jupyter environment up and running, what you do next depends 
 
 ### I’ve never programmed before/I hate programming!
 
-If you have never done *any* programming before, or are someone who finds programming  challenging, then you may find that the practical parts of this course are quite hard to access. Please do not worry about this, and do talk to us if you are struggling. To get the most out of the activities, it is definitely worth spending some time now learning Python. As a starting point we highly recommend working slowly through the textbook [How to Think Like a Computer Scientist: Learning with Python 3](https://openbookproject.net/thinkcs/python/english3e/) (click the link to access the book). This book covers the key aspects of programming in Python from the very basics, and builds up to everything you need to know in this course.  In particular you should work through Chapters 1 to 14 (skipping 10 if you want), plus Chapter 20. If you get this far, then you could tackle the provided Python activity (see [below](https://www.notion.so/OxNet-Science-2022-45d4d1172074451ca17d54dab2cce63a)) to test yourself.
+If you have never done *any* programming before, or are someone who finds programming  challenging, then you may find that the practical parts of this course are quite hard to access. Please do not worry about this, and do talk to us if you are struggling. To get the most out of the activities, it is definitely worth spending some time now learning Python. As a starting point we highly recommend working slowly through the textbook [How to Think Like a Computer Scientist: Learning with Python 3](https://openbookproject.net/thinkcs/python/english3e/) (click the link to access the book). This book covers the key aspects of programming in Python from the very basics, and builds up to everything you need to know in this course.  In particular you should work through Chapters 1 to 14 (skipping 10 if you want), plus Chapter 20. If you get this far, then you could tackle the provided Python activity (see [below](https://github.com/hawesie/oxnet-science/blob/main/OxNet%20Science%202022%20Prep.md#oxnet-python-prep-activities)) to test yourself.
 
 ### I’ve programmed before but I’m new to Python
 
-If you have learned another language (e.g. Java, C++, Javascript, R) but not Python, then you will need to pick up the **syntax** of python (i.e. what symbols to type in what order). The provided Python activities (see [below](https://www.notion.so/OxNet-Science-2022-45d4d1172074451ca17d54dab2cce63a)) should provide you with enough scope to learn the way Python works, and help you translate your experience from other languages.
+If you have learned another language (e.g. Java, C++, Javascript, R) but not Python, then you will need to pick up the **syntax** of python (i.e. what symbols to type in what order). The provided Python activities (see [below](https://github.com/hawesie/oxnet-science/blob/main/OxNet%20Science%202022%20Prep.md#oxnet-python-prep-activities)) should provide you with enough scope to learn the way Python works, and help you translate your experience from other languages.
 
 ### I’ve got some experience with Python
 
-If you have worked with Python before, it will be useful to make sure you revise all the topics and libraries relevant to this course.  The provided Python activities (see [below](https://www.notion.so/OxNet-Science-2022-45d4d1172074451ca17d54dab2cce63a)) will help your revision. If you want to revise independently then make sure you cover list processing, dictionaries, numerical computing with `numpy` and visualisations using `matplotlib`.
+If you have worked with Python before, it will be useful to make sure you revise all the topics and libraries relevant to this course.  The provided Python activities (see [below](https://github.com/hawesie/oxnet-science/blob/main/OxNet%20Science%202022%20Prep.md#oxnet-python-prep-activities)) will help your revision. If you want to revise independently then make sure you cover list processing, dictionaries, numerical computing with `numpy` and visualisations using `matplotlib`.
 
 ## OxNet Python Prep Activities
 
@@ -69,4 +69,4 @@ These steps are illustrated in a video, here: [https://youtu.be/qgy7XWhXT6o](htt
 
 # What’s Next?
 
-Once you are able to run a SageMaker Studio Lab project, are able to work with a Jupyter notebook, and are comfortable with Python, then you’re ready to go! The next step will be the first session where we’re looking a mathematical models in probability theory and robotics.
+Once you are able to run a SageMaker Studio Lab project, are able to work with a Jupyter notebook, and are comfortable with Python (i.e. you've completed the above activities), then you’re ready to go! The next step will be the first session where we’re looking a mathematical models in probability theory and robotics.
