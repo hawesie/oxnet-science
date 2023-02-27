@@ -1,25 +1,6 @@
 # OxNet Science Programme: Robot Navigation Data Processing 
 
-This is the README file for the OxNet Science Programme seminar delivered by [Prof. Nick Hawes](https://www.robots.ox.ac.uk/~nickh/) about robot navigation. If you are on the OxNet programme and have any questions about the data or code, please post your question on the [OxNet forum](https://www.oxnet.org/forum/stem-discussion-group) or get in touch with Holly Roach <[holly.roach@path.ox.ac.uk](mailto:Holly%20Roach%20%3Cholly.roach%40path.ox.ac.uk%3E)>.
-
-
-## Software / Environment Setup
-
-In order to prepare your computing environment, make sure you've completed "Preparing Your Coding Environment" from the [README.md](./README.md). If you are not following those instructions for some reason, then in order to work with this code you need to have access to [Python 3](https://www.python.org/), with the following additional packages: [numpy](https://numpy.org/) (for numerical computations) and [matplotlib](https://matplotlib.org/) (for visualisation and plotting). We will work in a [Jupyter notebook](https://jupyter.org/) for the exercise, so you also require the packages for this. 
-
-
-## Downloading the Code and Data
-
-The Python notebook and data for this exercise is stored in this [Git repository](https://github.com/hawesie/oxnet-science). To use the code in SageMaker, do the following
-
-1. Log on to SageMaker Studio Lab, start the runtime, and open your project.
-2. Open the “Git” mention and select “Clone Git Repository”
-3. This will pop up a dialogue box. In the empty field (”Git repository URL (.git):”) paste the following: [https://github.com/hawesie/oxnet-science](https://github.com/hawesie/oxnet-science)
-4. Uncheck the box after “Search for environment.yml and build Conda environment.” (but leave the other one checked).
-5. Click the blue Clone button
-
-This should extract the files into your Python environment. It will create a folder structure containing a `data` folder and a `notebooks` folder. You should open `notebooks/robot_navigation_statistics.ipynb` in SageMaker Studio Lab.
-
+This is the README file for the OxNet Science Programme seminar delivered by [Prof. Nick Hawes](https://www.robots.ox.ac.uk/~nickh/) about robot navigation. If you are on the OxNet programme and have any questions about the data or code, please talk to the OxNet support team or get in touch with Thomas Hird <thomas.hird@physics.ox.ac.uk>.
 
 ## Data 
 
@@ -34,4 +15,6 @@ You are provided with a Jupyter notebook in [notebooks/robot_navigation_statisti
 # The Homework Exercise
 
 For the homework you should work through the provided Jupyter notebook, reading each entry and doing your best to understand each cell of Python code. Feel free to edit the code, or run additional tests, as you wish. At two locations in the file there are lists of tasks for you to attempt in order to explore the data further. Everyone should attempt at least two tasks, i.e. the first task in each list. Save all your attempts in either the provided notebook or a separate one, and then you can submit your homework by submitting your edited notebook.
+
+You  will have a Q&A specifically on this homework on Thursday 9th March.
 
