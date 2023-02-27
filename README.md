@@ -40,5 +40,5 @@ To get started with the homework, follow the steps below:
 
 This will copy the Python activity files into your project and open this README file. 
 
-You can then open the file for the homework and get started: [notebooks/robot_navigation_statistics.ipynb][notebooks/robot_navigation_statistics.ipynb]
+You can then open the README file for the homework and get started: [Robot\ Navigation\ Data\ Processing.md][Robot\ Navigation\ Data\ Processing.md]
 
